@@ -1,2 +1,1 @@
-# ECS-ML-OPS
-# ECS-ML-OPS
+# Build and Run a Docker Container for your Machine Learning Model
